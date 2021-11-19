@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rhodeszoeyj
+- 👋 Hi, I’m Zoey
 - 👀 I’m interested in computer programming, music, typology and language-learning.
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on language practice (spanish!!)
